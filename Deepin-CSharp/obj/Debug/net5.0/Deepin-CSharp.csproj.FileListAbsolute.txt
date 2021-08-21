@@ -1,0 +1,16 @@
+F:\Deepin-CSharp\Deepin-CSharp\bin\Debug\net5.0\Deepin-CSharp.exe
+F:\Deepin-CSharp\Deepin-CSharp\bin\Debug\net5.0\Deepin-CSharp.deps.json
+F:\Deepin-CSharp\Deepin-CSharp\bin\Debug\net5.0\Deepin-CSharp.runtimeconfig.json
+F:\Deepin-CSharp\Deepin-CSharp\bin\Debug\net5.0\Deepin-CSharp.runtimeconfig.dev.json
+F:\Deepin-CSharp\Deepin-CSharp\bin\Debug\net5.0\Deepin-CSharp.dll
+F:\Deepin-CSharp\Deepin-CSharp\bin\Debug\net5.0\ref\Deepin-CSharp.dll
+F:\Deepin-CSharp\Deepin-CSharp\bin\Debug\net5.0\Deepin-CSharp.pdb
+F:\Deepin-CSharp\Deepin-CSharp\obj\Debug\net5.0\Deepin-CSharp.csproj.AssemblyReference.cache
+F:\Deepin-CSharp\Deepin-CSharp\obj\Debug\net5.0\Deepin-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Deepin-CSharp\Deepin-CSharp\obj\Debug\net5.0\Deepin-CSharp.AssemblyInfoInputs.cache
+F:\Deepin-CSharp\Deepin-CSharp\obj\Debug\net5.0\Deepin-CSharp.AssemblyInfo.cs
+F:\Deepin-CSharp\Deepin-CSharp\obj\Debug\net5.0\Deepin-CSharp.csproj.CoreCompileInputs.cache
+F:\Deepin-CSharp\Deepin-CSharp\obj\Debug\net5.0\Deepin-CSharp.dll
+F:\Deepin-CSharp\Deepin-CSharp\obj\Debug\net5.0\ref\Deepin-CSharp.dll
+F:\Deepin-CSharp\Deepin-CSharp\obj\Debug\net5.0\Deepin-CSharp.pdb
+F:\Deepin-CSharp\Deepin-CSharp\obj\Debug\net5.0\Deepin-CSharp.genruntimeconfig.cache
